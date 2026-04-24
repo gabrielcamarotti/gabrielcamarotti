@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência da Computação | UI/UX Designer | Interesse em Desenvolvimento de Software`**
 
-Me chamo Gabriel, tenho 20 anos e estou cursando Ciência da Computação (3º período). Tenho interesse em desenvolvimento de software e na criação de interfaces digitais que unem funcionalidade e boa experiência do usuário.
+Me chamo Gabriel, tenho 18 anos e estou cursando Ciência da Computação (3º período). Tenho interesse em desenvolvimento de software e na criação de interfaces digitais que unem funcionalidade e boa experiência do usuário.
 
 Ao longo da minha formação, desenvolvi base em programação com Python, C e Java, além de estudar UI/UX Design, com experiência prática em projetos reais — incluindo um projeto internacional conduzido em inglês.
 
